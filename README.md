@@ -3,7 +3,7 @@ This project is intended to build a spice simulator that runs locally on your we
 
 # Resources
 
-- [Siliwiz](https://app.siliwiz.com) already has a minimal ngspice **FIMXE** sourcecode compiled to Web Assmely with a Nodejs interface.
+- [Siliwiz](https://app.siliwiz.com) already has a [minimal ngspice sourcecode](https://sourceforge.net/p/ngspice/ngspice/ci/minimal-ngspice/tree/) compiled to Web Assmely with a Nodejs interface.
 - [Siliwiz GitHub Page](https://github.com/TinyTapeout/siliwiz)
 - [VGA Playground GitHub page](https://github.com/TinyTapeout/vga-playground/)
 - [Steve Hugg's 8-bit workshop](https://github.com/sehugg/8bitworkshop-compilers)
