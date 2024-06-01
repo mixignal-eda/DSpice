@@ -1,5 +1,6 @@
 # About
-This project is intended to build a spice simulator that runs locally on your web browser. ngspice will be compiled for Web Assembly that will run locally on the browser.
+DSpice, or (Discord Spice), is intended to be a browser-based Spice simulator that promises ease of use without the need for hefty installations, making it an ideal learning platform for beginners, hobbyists, and enthusiasts. By focusing on simplicity and accessibility, DSPICE aims to democratize the field of integrated circuit (IC) design, allowing users to experiment with designs up to a few hundred transistors directly within their web browsers.
+The Spice simulator will be based on a minimal version of ngspice.
 
 # Resources
 
